@@ -18,5 +18,5 @@ Repositorio creado para almacenar y organizar los ejercicios realizados durante 
 
 | 🌟 Ejercicio | 🧠 Tema | 🔗 Enlace |
 |--------------|---------|-----------|
-| **Ventana básica Swing** | Java / Swing | [📄 Ver ejercicio](https://github.com/diabegarciamtz-coder/U3GB-Ejercicios-Pr-cticos/blob/main/Identificacion%20de%20elementos%20de%20un%20arbol.pdf) |
+| **Elementos de un arbol** | Java / Swing | [📄 Ver ejercicio](https://github.com/diabegarciamtz-coder/U3GB-Ejercicios-Pr-cticos/blob/main/Identificacion%20de%20elementos%20de%20un%20arbol.pdf) |
 
